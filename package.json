@@ -1,5 +1,5 @@
 {
-  "name": "object-properties",
+  "name": "object-properties-utils",
   "version": "1.0.0",
   "description": "Utilities for ibject Properties",
   "main": "index.js",
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "properties",
-    "object"
+    "object",
+    "utils"
   ],
   "author": "Sri Ram Khandelwal",
   "license": "ISC",
